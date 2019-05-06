@@ -34,6 +34,6 @@ learing Data_Structure by using PYTHON
 
  파트 22,23. 힙
 
--1 : 최대 힙에 새로운 원소 삽입
+-1 : 최대 힙에 새로운 원소를 삽입
 
 -2 : 최대 힙에서의 원소 삭제
