@@ -36,4 +36,4 @@ learing Data_Structure by using PYTHON
 
 -1 : 최대 힙에 새로운 원소를 삽입
 
--2 : 최대 힙에서의 원소 삭제
+-2 : 최대 힙에서의 원소를 삭제
